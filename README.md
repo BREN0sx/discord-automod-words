@@ -13,4 +13,4 @@ Lista completa de palavras feias para bloquear através do Automod do Discord
 - [Lista de palavrões com conteúdo sexual](https://github.com/BREN0sx/discord-automod-words/blob/main/WordFilter-02)
 - [Lista de caracteres inadequados](https://github.com/BREN0sx/discord-automod-words/blob/main/WordFilter-03)
 
-Se você acha que existem palavras que não deveriam estar nesta lista, ou deveriam estar nesta lista, estou aberto a [solicitações](https://github.com/BREN0sx/discord-automod-words/pulls).
+Se você acha que existem palavras que não deveriam estar nesta lista, ou deveriam estar nesta lista, estou aberto a [solicitações](https://github.com/BREN0sx/discord-automod-words/pulls)
